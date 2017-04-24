@@ -1,0 +1,44 @@
+05/07/16-12:13AM, test2, LOGIN, localhost:4000, fail, ERR 02 BAD PASSWORD 
+05/07/16-12:14AM, test4, LOGIN, localhost:4000, success, hello 
+05/07/16-12:14AM, test3, LOGIN, localhost:4000, success, hello 
+05/07/16-12:14AM, test2, LOGIN, localhost:4000, success, hello 
+05/07/16-12:14AM, test1, LOGIN, localhost:4000, success, hello 
+05/07/16-12:14AM, test2, CMD, /time, success, client
+05/07/16-12:14AM, test4, CMD, /time, success, client
+05/07/16-12:14AM, test3, CMD, /time, success, client
+05/07/16-12:14AM, test1, CMD, /time, success, client
+05/07/16-12:14AM, test3, CMD, /time, success, client
+05/07/16-12:14AM, test1, CMD, /time, success, client
+05/07/16-12:14AM, test2, CMD, /time, success, client
+05/07/16-12:14AM, test4, CMD, /time, success, client
+05/07/16-12:15AM, test1, LOGIN, localhost:4000, success, hello 
+05/07/16-12:15AM, test2, LOGIN, localhost:4000, success, hello 
+05/07/16-12:15AM, test4, LOGIN, localhost:4000, success, hello 
+05/07/16-12:15AM, test3, LOGIN, localhost:4000, success, hello 
+05/07/16-12:16AM, test4, CMD, /time, success, client
+05/07/16-12:16AM, test1, CMD, /time, success, client
+05/07/16-12:16AM, test3, CMD, /time, success, client
+05/07/16-12:16AM, test2, CMD, /time, success, client
+05/07/16-12:17AM, test1, LOGIN, localhost:4000, success, hello 
+05/07/16-12:17AM, test2, LOGIN, localhost:4000, success, hello 
+05/07/16-12:17AM, test4, LOGIN, localhost:4000, success, hello 
+05/07/16-12:17AM, test3, LOGIN, localhost:4000, success, hello 
+05/07/16-12:18AM, test3, CMD, /time, success, client
+05/07/16-12:18AM, test2, CMD, /time, success, client
+05/07/16-12:18AM, test4, CMD, /time, success, client
+05/07/16-12:18AM, test1, CMD, /time, success, client
+05/07/16-12:18AM, test2, CMD, /listu, success, client
+05/07/16-12:18AM, test3, CMD, /listu, success, client
+05/07/16-12:18AM, test1, CMD, /listu, success, client
+05/07/16-12:18AM, test4, CMD, /listu, success, client
+05/07/16-12:18AM, test1, CMD, /help, success, client
+05/07/16-12:18AM, test2, CMD, /help, success, client
+05/07/16-12:18AM, test3, CMD, /help, success, client
+05/07/16-12:18AM, test4, CMD, /help, success, client
+05/07/16-12:18AM, test3, CMD, /listu, success, client
+05/07/16-12:18AM, test4, CMD, /listu, success, client
+05/07/16-12:18AM, test1, CMD, /listu, success, client
+05/07/16-12:18AM, test2, CMD, /listu, success, client
+05/07/16-12:29AM, test4, LOGIN, localhost:4000, fail, ERR 00 USER NAME TAKEN 
+05/07/16-12:29AM, test4, LOGIN, localhost:4000, fail, ERR 00 USER NAME TAKEN 
+

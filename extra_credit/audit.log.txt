@@ -1,0 +1,28 @@
+05/03/16-04:33PM, neal, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:38PM, neal, CMD, /time, success, client
+05/03/16-04:38PM, neal, CMD, /audit, success, client
+05/03/16-04:43PM, neal, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:43PM, neal, CMD, /audit, success, client
+05/03/16-04:44PM, neal, CMD, /audit, success, client
+05/03/16-04:44PM, neal, CMD, /audit, success, client
+05/03/16-04:47PM, neal, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:49PM, neal, CMD, /audit, success, client
+05/03/16-04:50PM, andy, CMD, /time, success, client
+05/03/16-04:49PM, bob, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:51PM, neal, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:52PM, neal, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:52PM, neal, CMD, /audit, success, client
+05/03/16-04:20AM, neal, CMD, /audit, success, client
+05/03/16-04:18PM, neal, CMD, /audit, success, client
+05/03/16-04:56PM, neal, CMD, /time, success, client
+05/03/16-04:56PM, neal, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:57PM, neal, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:57PM, neal, CMD, /audit, success, client
+05/03/16-04:57PM, neal, CMD, /time, success, client
+05/03/16-04:57PM, neal, CMD, /audit, success, client
+05/03/16-04:59PM, neal, LOGIN, 127.0.0.1:4000, success, welcome 
+05/03/16-04:59PM, neal, CMD, /audit, success, client
+05/03/16-04:59PM, neal, CMD, /time, success, client
+05/03/16-04:59PM, neal, CMD, /audit, success, client
+05/05/16-10:52PM, neal, LOGIN, 127.0.0.1:4000, fail, ERR 01 BAD PASSWORD 
+05/05/16-10:52PM, neal, LOGIN, 127.0.0.1:4000, fail, ERR 02 BAD PASSWORD 
